@@ -1,4 +1,9 @@
 ## Hi there 👋
+**## 🐦 Flappy Bird: Git Edition**
+*Play the game and try to set the highest score!*
+
+[🎮 Play Now](https://SazidCH.github.io/flappy-bird-game/)
+
 
 <!--
 **SazidCH/SazidCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
