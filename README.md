@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://github.com/SazidCH/snk_temp/blob/output/github-contribution-grid-snake.svg)
+(https://SazidCH.github.io/snk_temp/)
 <!--![GitHub Snake](https://github.com/SazidCH/snk_temp/blob/output/github-contribution-grid-snake.svg)
 [🎮 Or Play Snake Game](https://SazidCH.github.io/snk_temp/)>
