@@ -1,6 +1,6 @@
 ## Hi there 👋
 **## 🐦 Flappy Bird: Git Edition**
-*Play the game and try to set the highest score!*
+*Play this in super hard game and try to set the highest score!*
 
 [🎮 Play Now](https://sazidch.github.io/git_bird/)
 
